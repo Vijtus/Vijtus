@@ -1,6 +1,6 @@
 Hello, I'm Wiktor Dębowski (a.k.a. Vijtus), a science and technology enthusiast focusing on lasers while also exploring mechatronics and 3D printing. I'm a self-described jack of all trades, always eager to learn and dive into new areas. Currently, I'm concentrating on physical research, medical technology, and military projects.
 
-If you'd like to know more or discuss potential collaborations, feel free to reach out through any of my contact links. Thanks for visiting!
+If you'd like to know more or discuss potential collaborations, feel free to reach out through any of my contact links.
 
 
 <div align="left">
