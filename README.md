@@ -1,40 +1,27 @@
 ```diff
-+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
-+                                                                           +
-+ @x0rzavi@git0s                                                            +
-+                                                                           +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
-+                                                                           +
-+ OS:        Arch/Gentoo Linux, Windows 11, Android 13                      +
-+ Host:      Netaji Subhash Engineering College #NSEC                       +
-+ Kernel:    Computer Science & Engineering #CSE                            +
-+ Uptime:    21 years, 5 months, 4 days                                     +
-+ IDE:       neovim, VSCode                                                 +
-+                                                                           +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
-+                                                                           +
-+ Contact:                                                                  +
-+                                                                           +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
-+                                                                           +
-+ Email:     x0rzavi@gmail.com                                              +
-+ LinkedIn:  avishek-sen-x0rzavi                                            +
-+                                                                           +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
-+                                                                           +
-+ GitHub Stats:                                                             +
-+                                                                           +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
-+                                                                           +
-+ User Rating:       B+                                                     +
-+ Total Stars Earned: 271                                                   +
-+ Total Commits (2023): 610                                                 +
-+ Total PRs: 25                                                             +
-+ Merged PR %: 84.0                                                         +
-+ Total Contributions: 15                                                   +
-+ Top Languages:      Shell, Python, C, JavaScript, CSS                     +
-+                                                                           +
-+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
-                                                                            
-x0rzavi@git0s -> # Have a nice day kind stranger :D Thanks for stopping by!
++ + + + + + + + + + + + + + + + + + + + + + + + + + + +
++                                                     +
++   Wiktor "Vijtus" Debowski                          +
++   Electronic & Computer Engineering Student         +
++   Wrocław University of Science and Technology      +
++ - - - - - - - - - - - - - - - - - - - - - - - - - - +
++   Technical Skills:                                 +
++   - Programming: Python, C/C++, Java, JavaScript    +
++   - Web: HTML/CSS, JavaScript                       +
++   - Tools: MATLAB, Linux, Raspberry Pi              +
++   - Design: Fusion 360, KiCad, Altium Designer      +
++   - Data: Matplotlib, PyTorch, TensorFlow           +
++ - - - - - - - - - - - - - - - - - - - - - - - - - - +
++   Projects:                                         +
++   - 3D printing optimization                        +
++   - Open-source contributions                       +
++   - Laser system component design (thesis)          +
++ - - - - - - - - - - - - - - - - - - - - - - - - - - +
++   Experience:                                       +
++   - Internships at ELI Beamlines                    +
++   - Laboratory Assistant, Laser Spectroscopy Group  +
++   - Developer, PROA Technology                      +
++ + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+wiktor.vijtus.debowski@protonmail.com | github.com/Vijtus
 </p>
