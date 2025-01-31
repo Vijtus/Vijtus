@@ -1,34 +1,6 @@
-```diff
-<p>
-<img src="https://i.imgur.com/neonmatrix.gif" width="100%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijtus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Wiktor%20%22Vijtus%22%20D%C4%99bowski%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vijtus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
-+                                                     +                                 +
-+   Wiktor Debowski - @Vijtus                        +   Contact:                      +
-+                                                     +   + - - - - - - - - - - - - - + +
-+   Electronic & Computer Engineering Student        +   Email:                        +
-+   Wrocław University of Science and Technology     +   wiktor.vijtus.debowski@       +
-+                                                     +   protonmail.com                +
-+ - - - - - - - - - - - - - - - - - - - - - - - - - + +   + - - - - - - - - - - - - - + +
-+                                                     +   GitHub: github.com/Vijtus     +
-+   Technical Skills:                                +                                 +
-+   - Programming: Python, C/C++, Java, JavaScript   +   Website: vijtus.com           +
-+   - Web: HTML/CSS, JavaScript                      +   + - - - - - - - - - - - - - + +
-+   - Tools: MATLAB, Linux, Raspberry Pi             +                                 +
-+   - Design: Fusion 360, KiCad, Altium Designer     +   Projects:                     +
-+   - Data: Matplotlib, PyTorch, TensorFlow          +   - 3D Printing Optimization    +
-+                                                     +     - Printables Profile:       + 
-+ - - - - - - - - - - - - - - - - - - - - - - - - - + +       printables.com/@Vijtus    + 
-+                                                     +   - DIY Projects & Tutorials    +
-+   Experience:                                      +   - Laser System Design (Thesis)+
-+   - Internships at ELI Beamlines                   +                                 +
-+   - Laboratory Assistant, Laser Spectroscopy Group + - - - - - - - - - - - - - - - - +
-+   - Developer, PROA Technology                     +                                 +
-+                                                     +   Skills:                       +
-+                                                     +   - PCB Design (KiCad, Altium)  +
-+                                                     +   - CAD (Fusion 360, NX)        +
-+                                                     +   - Scientific Research         +
-+                                                     +   - Technical Writing           +
-+                                                     +                                 +
-+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
-</p>
+###
